@@ -9,12 +9,13 @@ $ git config --global user.email "my@email.ca"
 
 # You turn now..
 
-... to continue this document with relevant git commands!
-J'ai faim!
-     O
-    \|/
-     |    /¯¯\
-    /¯\   \__/
+... to continue this document with relevant git commands!  
+J'ai faim!  
+     O  
+    \|/  
+     |    /¯¯\  
+    /¯\   \__/  
+    
 
 # Markdown Cheatsheet
 
