@@ -1,0 +1,36 @@
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{amsmath}
+\usepackage{textpos}
+\usepackage{adjustbox}
+\usepackage{booktabs}
+\usepackage{multirow}
+
+\titlegraphic{\begin{textblock*}{1.5cm}(1.5cm,-2.5cm)
+   \includegraphics[width=8cm]{images/git_github.png}\end{textblock*}}
+
+%Define your colours
+%\definecolor{mycolor}{HTML}{htmlcode}
+\definecolor{darkbg}{HTML}{f3f5f6}
+\definecolor{titles}{HTML}{5e7359}
+\definecolor{lighttext}{HTML}{293226}
+\definecolor{emphasedark}{HTML}{c8eed4}
+%\definecolor{emphaselight}{HTML}{f14d49}
+
+%Create the palettes for each item type using the colors defined above
+%\setbeamercolor{item}{fg=font foreground color,bg=font background color}
+%background color
+\setbeamercolor{background canvas}{bg=darkbg}
+%main text
+\setbeamercolor{normal text}{fg=lighttext}
+%slides title
+\setbeamercolor{frametitle}{fg=titles,bg=darkbg}
+%main title
+\setbeamercolor{title}{fg=titles,bg=darkbg}
+\setbeamerfont{title}{size={\fontsize{16}{18}}}
+\setbeamerfont{subtitle}{size={\fontsize{22}{24}}}
+\setbeamercolor{local structure}{fg=emphasedark}
+\setbeamercolor{item projected}{fg=titles,bg=white}
+%bullets shape and color
+\setbeamertemplate{itemize item}{\color{emphasedark}$\bullet$}
+\setbeamertemplate{itemize subitem}{\color{emphasedark}\scriptsize{$\bullet$}}
