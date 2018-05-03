@@ -12,6 +12,7 @@ $ git config --global user.email "my@email.ca"
 ... to continue this document with relevant git commands!    
 
 ## Section for branch
+branch is ready
 
 # Markdown Cheatsheet
 
