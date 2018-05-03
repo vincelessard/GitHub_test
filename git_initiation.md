@@ -10,6 +10,7 @@ $ git config --global user.email "my@email.ca"
 # You turn now..
 
 ... to continue this document with relevant git commands!
+J'ai faim!
 
 
 # Markdown Cheatsheet
