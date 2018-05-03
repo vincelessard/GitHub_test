@@ -14,6 +14,9 @@ $ git config --global user.email "my@email.ca"
 ## Section for branch
 branch is ready
 
+how to make a merge
+
+
 # Markdown Cheatsheet
 
 http://commonmark.org/help/
