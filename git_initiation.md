@@ -11,11 +11,8 @@ $ git config --global user.email "my@email.ca"
 
 ... to continue this document with relevant git commands!  
 J'ai faim!  
-     O  
-    \|/  
-     |    /¯¯\  
-    /¯\   \__/  
-    
+
+## Modif for branch 
 
 # Markdown Cheatsheet
 
