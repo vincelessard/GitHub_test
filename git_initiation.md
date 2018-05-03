@@ -9,10 +9,9 @@ $ git config --global user.email "my@email.ca"
 
 # You turn now..
 
-... to continue this document with relevant git commands!  
-J'ai faim!  
+... to continue this document with relevant git commands!    
 
-## Modif for branch 
+## Section for branch
 
 # Markdown Cheatsheet
 
